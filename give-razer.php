@@ -1,14 +1,15 @@
 <?php
 /**
  * Plugin Name: [Razer] Payment Gateway for GiveWP
- * Plugin URI:
- * Description: [Razer] Payment Gateway
+ * Plugin URI:  https://github.com/amaleena123/Razer-GiveWP/
+ * Description: Razer Payment Gateway
  * Version:     1.0.0
  * Author:      Amalina Nusyirwan
- * Author URI:
+ * Author URI:  https://github.com/amaleena123/
  * Text Domain: give-razer
  * Domain Path: /languages
  */
+
 // Exit if accessed directly.
 if (!defined('ABSPATH')) {
   die('Error plugin');
@@ -20,10 +21,10 @@ if (!defined('ABSPATH')) {
  * Required minimum versions, paths, urls, etc.
  */
 if (!defined('GIVE_RAZER_MIN_GIVE_VER')) {
-  define('GIVE_RAZER_MIN_GIVE_VER', '1.8.3');
+  define('GIVE_RAZER_MIN_GIVE_VER', '2.4.0');
 }
 if (!defined('GIVE_RAZER_MIN_PHP_VER')) {
-  define('GIVE_RAZER_MIN_PHP_VER', '5.6.0');
+  define('GIVE_RAZER_MIN_PHP_VER', '7.0.0');
 }
 if (!defined('GIVE_RAZER_PLUGIN_FILE')) {
   define('GIVE_RAZER_PLUGIN_FILE', __FILE__);
