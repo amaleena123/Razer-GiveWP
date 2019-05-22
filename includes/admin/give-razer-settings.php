@@ -3,7 +3,7 @@
 /**
  * Class Give_Razer_Settings
  *
- * @since 3.0.2
+ * @since 1.0.0
  */
 class Give_Razer_Settings {
 
@@ -160,8 +160,7 @@ class Give_Razer_Settings {
               'type' => 'multicheck',
               'options' => array(
                   'none' => 'Disable this channel setting',
-                  'BOOST'  => 'Boost',
-                  'WeChatPay'  => 'WeChatPay'
+                  'BOOST'  => 'Boost'
                )
 
           ),
