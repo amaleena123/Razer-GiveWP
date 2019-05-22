@@ -400,7 +400,6 @@ class Give_Razer_Gateway {
                           "fpx_bmmb" =>"Bank Muamalat",
                           "fpx_hsbc" =>"Hongkong and Shanghai Banking Corporation",
                           'BOOST'  => 'Boost',
-                          'WeChatPay'  => 'WeChatPay'
                       );            
         return $list_channels[$chn];                   
     }
