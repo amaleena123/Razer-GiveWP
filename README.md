@@ -5,10 +5,11 @@ Provides payment method Razer in GiveWP plugin to accept payment Razer Merchant 
 ## Requirements
 
 * PHP **7.0 (Recommended)**
-* GiveWP **Version 2.4.7 or later**
 * Wordpress **Version 5.2 or later**
+* GiveWP **Version 2.4.7 or later**
 
-## Download
+## Download Plugin
+
 * Download here: [**Plugin Files**](https://github.com/amaleena123/Razer-GiveWP)
   * Find green button which display "Clone or download" and click on it as will display a small box
   * Then click on "Download ZIP"
