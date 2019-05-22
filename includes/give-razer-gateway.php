@@ -305,6 +305,7 @@ class Give_Razer_Gateway {
       $payer_phone = ( isset($payment_data['post_data']['phone_number']) && !empty($payment_data['post_data']['phone_number']) )? $payment_data['post_data']['phone_number'] : '';
 
       $payer_amount = $payment_data['price'];
+      $payer_amount =  number_format($payer_amount,2,'.','');
       $payer_currency =  give_get_currency( $payment_id, $payment_data ); 
       
       //Currency converter when enabled
