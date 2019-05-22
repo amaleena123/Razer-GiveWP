@@ -4,7 +4,7 @@ Provides payment method Razer in GiveWP plugin to accept payment Razer Merchant 
 
 ## Requirements
 
-* PHP **7.0 (Recommended) or later**
+* PHP 5.6.0 or **7.0 (Recommended)** or later
 * Wordpress **Version 5.2 or later**
 * GiveWP **Version 2.4.7 or later**
 
