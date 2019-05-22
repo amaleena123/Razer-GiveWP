@@ -29,5 +29,5 @@ Provides payment method Razer in GiveWP plugin to accept payment Razer Merchant 
 5. Set **Merchant ID**, **Verify Key** and **Secret Key**.These info can be found in [**Razer Merchant Service - Merchant Portal**](https://portal.molpay.com/) > Transactions > Settings.
 
 ## Any Inquiry
-* for plugin issues such as integration, debugs on docation form, you may send email to amalina.nusyirwan.webdev@gmail.com
+* for plugin issues related, you may send email to amalina.nusyirwan.webdev@gmail.com
 * for transaction status issue, please send email to support-sa@razer.com
