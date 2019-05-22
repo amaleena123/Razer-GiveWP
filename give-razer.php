@@ -24,7 +24,7 @@ if (!defined('GIVE_RAZER_MIN_GIVE_VER')) {
   define('GIVE_RAZER_MIN_GIVE_VER', '2.4.0');
 }
 if (!defined('GIVE_RAZER_MIN_PHP_VER')) {
-  define('GIVE_RAZER_MIN_PHP_VER', '7.0.0');
+  define('GIVE_RAZER_MIN_PHP_VER', '5.6.0');
 }
 if (!defined('GIVE_RAZER_PLUGIN_FILE')) {
   define('GIVE_RAZER_PLUGIN_FILE', __FILE__);
